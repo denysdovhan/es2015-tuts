@@ -1,0 +1,15 @@
+{
+  "name": "es2015-tuts",
+  "description": "ECMAScript 2015 tutorials by Web Space.",
+  "version": "0.1.0",
+  "repository": "denysdovhan/es2015-tuts",
+  "author": "Denys Dovhan <email@denysdovhan.com>",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "license": "MIT"
+}
