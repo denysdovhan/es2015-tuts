@@ -1,0 +1,14 @@
+{
+  "ignore": [
+    ".git",
+    "node_modules/**",
+    "clear.js"
+  ],
+  "execMap": {
+    "js": "./node_modules/.bin/babel-node"
+  },
+  "events": {
+    "start": "node clear.js",
+    "restart": "node clear.js"
+  }
+}
