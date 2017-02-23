@@ -2,6 +2,8 @@
 
 # ES2015 туторіали від Web Space
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/denysdovhan/es2015-tuts.svg)](https://greenkeeper.io/)
+
 > ECMAScript 2015 tutorials by Web Space.
 
 Репозиторій з сирцями для серії скрінкастів про **ECMAScript 2015** від [Web Space][webspace].
